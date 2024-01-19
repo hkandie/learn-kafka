@@ -1,0 +1,5 @@
+.history
+target
+app/venv
+app/__pycache__
+.vscode
