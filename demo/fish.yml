@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: lake
+  labels:
+    name: lake
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: fish
+  namespace: lake
+spec:
+  selector:
+    role: fish
+  ports:
+  - name: http
+    port: 80
+    targetPort: 8080

@@ -1,0 +1,1779 @@
+mvn compile jib:dockerBuild
+mvn compile jib:dockerBuild
+docker compose up -d
+docker compose up -d
+mvn clean
+mvn compile jib:dockerBuild
+docker compose up -d
+docker compose up -d
+docker compose up -d
+docker compose up -d
+mvn compile jib:dockerBuild
+docker compose up -d
+docker compose up -d
+mvn compile jib:dockerBuild
+mvn compile jib:dockerBuild
+mvn compile jib:dockerBuild
+mvn compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+docker compose up -d
+mvn clean compile jib:dockerBuild
+docker compose up -d
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+docker compose up -d
+docker compose up -d
+mvn clean compile jib:dockerBuild
+docker compose up -d
+docker compose up -d
+docker compose up -d
+mvn clean compile jib:dockerBuild
+docker compose up -d
+mvn clean compile jib:dockerBuild
+docker compose up -d
+rm -rf target
+mvn clean compile jib:dockerBuild
+docker compose up -d
+docker compose up -d
+mvn clean compile jib:dockerBuild
+docker compose up -d
+mvn clean compile jib:dockerBuild
+docker compose up -d
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+docker compose up -d
+mvn clean compile jib:dockerBuild
+docker compose up -d
+docker compose up 
+docker compose up -d
+docker compose up -d
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+git status
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_9cwhnry7lk7wy3gbpxb3l0dam.argfile com.spiderwalker.app.Application 
+ cd /Users/hkandie/bench/spider-aws-app-redis ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_don9podo5qrr6hgt2p5k5kbv.argfile com.spiderwalker.app.Application 
+mvn clean
+mvn package
+kill -9 $(lsof -t -i:8443\
+
+kill -9 $(lsof -t -i:8443)
+kill -9 $(lsof -t -i:8443)
+brew install podman\
+\
+
+kill -9 $(lsof -t -i:8443)
+kill -9 $(lsof -t -i:8443)
+git stash && git checkout main && git branch | grep -v "main" | xargs git branch -D | git pull
+git checkout 772-feature-testing-page-transitions
+git checkout add-pre-commit-hook
+npm i
+rm -rf package-lock.json
+npm i
+git stash
+npm i
+npm i
+npm i -D husky
+git push origin add-pre-commit-hook -f
+npm run test
+npm run test
+npm run coverage
+git checkout main
+npm run dev
+git stash
+git checkout main
+git pull
+npm run dev
+npm run dev
+npm run mfa -- cczcr5vbcytxc55m
+npm run mfa -- cczcr5vbcytxc55m
+npm run mfa -- k2w2symlq25pb5jz
+git push origin 771-feature-account-without-sufficient-permissions-is-not-able-to-update-a-user-test -f
+touch e2e/user-without-permissions.spec.ts
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run format
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test
+git status
+git fetch origin\
+git checkout 771-feature-account-without-sufficient-permissions-is-not-able-to-update-a-user-test
+git push origin 771-feature-account-without-sufficient-permissions-is-not-able-to-update-a-user-test
+npm run it 
+npm run it 
+npm run it -- -g "Test User Without Permissions"
+npm run it 
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it -- -g "Test User Without Permissions"
+npm run it
+git push origin 771-feature-account-without-sufficient-permissions-is-not-able-to-update-a-user-test -f
+npm run it
+npm run it
+npm run it
+npm run it
+npm run it
+npm run test
+npm run test
+npm run test
+clear
+npm run test
+npm run it
+npm run it
+npm run it
+npm run it
+npm run it
+npm run it
+git push origin 771-feature-account-without-sufficient-permissions-is-not-able-to-update-a-user-test -f
+git log
+git push origin 771-feature-account-without-sufficient-permissions-is-not-able-to-update-a-user-test -f
+git checkout main
+git pull
+git checkout 771-clean-up-e2e-tests
+git checkout -b 771-clean-up-e2e-tests
+git fetch origin
+git stash
+git rebase origin/main
+git stash apply
+npm run format
+git commit -m "Move playwright to main pipeline"
+git push origin 771-clean-up-e2e-tests
+git checkout 771-feature-account-without-sufficient-permissions-is-not-able-to-update-a-user-test
+git checkout main
+git stash
+git stash
+git checkout 771-clean-up-e2e-tests
+git fetch origin
+git rebase origin/main
+git push origin 771-clean-up-e2e-tests
+git push origin 771-clean-up-e2e-tests -f
+git commit --amend
+git push origin 771-clean-up-e2e-tests -f
+git checkout main
+git pull
+git stash && git checkout main && git branch | grep -v "main" | xargs git branch -D | git pull\
+
+jest --coverage --coverageReporters=json-summary
+jest --coverage --coverageReporters=json-summar
+npm run coverage -- --coverageReporters='json-summary'
+rm -rf coverage
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run format
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage
+npm run test
+npm run coverage
+npm run coverage
+npm run coverage
+npm run coverage
+npm run coverage
+npm run coverage
+npm run dev
+ /usr/bin/env 'NODE_OPTIONS= --require "/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http' 'VSCODE_INSPECTOR_OPTIONS=:::{"inspectorIpc":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-cdp.5091-38caaa25-1.sock","deferredMode":false,"waitForDebugger":"","execPath":"/Users/hkandie/.nvm/versions/node/v16.20.0/bin/node","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-debug-callback-3a95329071463a75"}' /Users/hkandie/.nvm/versions/node/v16.20.0/bin/node node_modules/.bin/jest /Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx -t Dashboard\ Refresh\ Button\ should\ get\ users\ when\ \"Refresh\"\ is\ clicked --runInBand 
+ cd /Users/hkandie/bench/account-management-automation-app ; /usr/bin/env 'NODE_OPTIONS= --require "/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http' 'VSCODE_INSPECTOR_OPTIONS=:::{"inspectorIpc":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-cdp.5091-9293a342-4.sock","deferredMode":false,"waitForDebugger":"","execPath":"/Users/hkandie/.nvm/versions/node/v16.20.0/bin/node","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-debug-callback-291924cb5d4a70eb"}' /Users/hkandie/.nvm/versions/node/v16.20.0/bin/node node_modules/.bin/jest /Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx -t Dashboard\ Refresh\ Button\ should\ get\ users\ when\ \"Refresh\"\ is\ clicked --runInBand 
+ cd /Users/hkandie/bench/account-management-automation-app ; /usr/bin/env 'NODE_OPTIONS= --require "/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http' 'VSCODE_INSPECTOR_OPTIONS=:::{"inspectorIpc":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-cdp.5091-c60ce8cf-7.sock","deferredMode":false,"waitForDebugger":"","execPath":"/Users/hkandie/.nvm/versions/node/v16.20.0/bin/node","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-debug-callback-87a6a5b4ca54fd30"}' /Users/hkandie/.nvm/versions/node/v16.20.0/bin/node node_modules/.bin/jest /Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx -t Dashboard\ Refresh\ Button\ should\ get\ users\ when\ \"Refresh\"\ is\ clicked --runInBand 
+ cd /Users/hkandie/bench/account-management-automation-app ; /usr/bin/env 'NODE_OPTIONS= --require "/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http' 'VSCODE_INSPECTOR_OPTIONS=:::{"inspectorIpc":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-cdp.5091-b15165e1-10.sock","deferredMode":false,"waitForDebugger":"","execPath":"/Users/hkandie/.nvm/versions/node/v16.20.0/bin/node","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-debug-callback-35283e3ac9bfb894"}' /Users/hkandie/.nvm/versions/node/v16.20.0/bin/node node_modules/.bin/jest /Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx -t Dashboard\ Refresh\ Button\ should\ get\ users\ when\ \"Refresh\"\ is\ clicked --runInBand 
+cd '/Users/hkandie/bench/account-management-automation-app'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx' -t 'Dashboard Refresh Button should get users when "Refresh" is clicked'
+cd '/Users/hkandie/bench/account-management-automation-app'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx' -t 'Dashboard Refresh Button should get users when "Refresh" is clicked'
+cd '/Users/hkandie/bench/account-management-automation-app'
+cd '/Users/hkandie/bench/account-management-automation-app'
+cd '/Users/hkandie/bench/account-management-automation-app'
+cd '/Users/hkandie/bench/account-management-automation-app'
+cd '/Users/hkandie/bench/account-management-automation-app'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx' -t 'Dashboard Refresh Button should get users when "Refresh" is clicked'
+npm run coverage
+npm run test -- useGetUserHealthStatus
+npm run coverage
+npm run coverage
+npm run coverage
+npm run coverage
+npm run coverage
+npm run coverage
+npm run test -- useGetUserHealthStatus
+npm run test
+git checkout -b fix-coverage
+npm run test
+npm run test
+npm run test
+npm run test
+npm run test -- BambooSwitch
+npm run test -- - BambooSwitch
+npm run test -- - BambooSwitch
+npm run test
+npm run test
+npm run test
+npm run test
+npm run format
+npm i -D @testing-library/user-event
+npm run lint
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+git push origin fix-coverage
+npm run test
+git push origin fix-coverage -f
+cd ..
+git clone https://github.com/sourceallies/introduction-to-kubernetes.git
+cd introduction-to-kubernetes
+cd '/Users/hkandie/bench/account-management-automation-app'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx' -t 'Dashboard BambooSwitch'
+npm run test
+npm run test
+npm run test
+npm run dev
+minicube
+minikube
+brew install minikube
+minikube
+minikube start
+minikube dashboard\
+
+git checkout main
+git pull
+npm run coverage -- --coverageReporters='json-summary'
+cd ../account-management-automation-app
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage -- --coverageReporters='json-summary'
+npm run coverage 
+npm run coverage 
+npm run coverage 
+npm run coverage -- --coverageReporters='json-summary'
+python
+python3
+git checkout -b fix-coverage
+git stash
+git stash && git checkout main && git branch | grep -v "main" | xargs git branch -D | git pull\
+
+git stash apply
+git checkout -b fix-coverage
+git push origin fix-coverage
+git checkout main
+git pull
+git checkout upgrade-to-azure-v4
+git checkout -v upgrade-to-azure-v4
+git checkout -b upgrade-to-azure-v4
+npm i @azure/function
+npm i @azure/functions
+npm audit fix
+npm iu
+npm i
+git commit
+git checkout -b fix-husky-pre-commit-hook 
+git push origin fix-husky-pre-commit-hook
+npm i
+git checkout upgrade-to-azure-v4
+npm i
+npm run build
+npm run build
+npm run build
+npm run build
+npx playwright test "auth.test.ts" -g "azure\s+auth\s+\S+"
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/brokers/auth.test.ts' -t 'azure auth getAccessToken'
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/brokers/azure.test.ts' -t 'azure'
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/user-trigger.test.ts' -t 'Trigger: func-AddADUser'
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/user-trigger.test.ts' -t 'Trigger: func-AddADUser'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/user-trigger.test.ts' -t 'Trigger: func-AddADUser'
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/user-trigger.test.ts' -t 'Trigger: func-AddADUser'
+npm run start
+npm run start
+npm run start
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/bamboo-user-hook-subscription.test.ts' -t 'Trigger: func-BambooUserHookSubscription'
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/bamboo-user-hook-subscription.test.ts' -t 'Trigger: func-BambooUserHookSubscription'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/bamboo-user-hook-subscription.test.ts' -t 'Trigger: func-BambooUserHookSubscription'
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/zenefits-listener.test.ts' -t 'Trigger: func-ZenefitsListener'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/zenefits-listener.test.ts' -t 'Trigger: func-ZenefitsListener'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/zenefits-listener.test.ts' -t 'Trigger: func-ZenefitsListener'
+cd '/Users/hkandie/bench/account-management-automation'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/zenefits-listener.test.ts' -t 'Trigger: func-ZenefitsListener should not make axios post request when in dev environment'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation/tests/unit/triggers/zenefits-listener.test.ts' -t 'Trigger: func-ZenefitsListener should not make axios post request when in dev environment'
+git checkout main
+git pull
+git checkout main
+git pull
+npm u
+npm i
+npm run test
+npm run coverage
+git pull
+git checkout separate-integration-tests-workflow
+minikube start
+minikube start --driver=docker
+minikube delete
+minikube start --driver=docker
+minikube dashboard\
+
+minikube addons enable metrics-server
+minikube addons enable metrics-server
+fg
+minikube start --driver=docker
+minikube addons enable metrics-server
+minikube dashboard\
+
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_9j1a83gakl8swvwbqprs3694d.argfile com.sourceallies.k8.demo.Application 
+ cd /Users/hkandie/bench/introduction-to-kubernetes ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_9j1a83gakl8swvwbqprs3694d.argfile com.sourceallies.k8.demo.Application 
+vn clean package -Pprod
+./m cd /Users/hkandie/bench/introduction-to-kubernetes ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_9j1a83gakl8swvwbqprs3694d.argfile com.sourceallies.k8.demo.Application 
+ cd /Users/hkandie/bench/introduction-to-kubernetes ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_9j1a83gakl8swvwbqprs3694d.argfile com.sourceallies.k8.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_9j1a83gakl8swvwbqprs3694d.argfile com.sourceall
+ cd /Users/hkandie/bench/introduction-to-kubernetes ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_9j1a83gakl8swvwbqprs3694d.argfile com.sourceallies.k8.demo.Application 
+ cd /Users/hkandie/bench/introduction-to-kubernetes ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_1j727duke2eama2np6zuskvyf.argfile com.sourceallies.k8.demo.Application 
+fg
+fgkubectl get namespaceskubectl get namespaces
+kubectl get namespaces
+kubectl create namespace intro-to-k8s
+kubectl get namespaces
+minikube service intro-to-k8s-demo --url
+kubectl create deployment hello-node --image=registry.k8s.io/e2e-test-images/agnhost:2.39 -- /agnhost netexec --http-port=8080\
+
+kubectl get deployments\
+
+kubectl get deployments\
+
+kubectl get pods\
+
+kubectl logs hello-node-ccf4b9788-lqkjk
+kubectl expose deployment hello-node --type=LoadBalancer --port=8080\
+
+kubectl get services
+minikube service hello-node\
+
+touch rxpowet.md
+kubectl create deployment hello-node --image=introtok8s/demo:0.0.1 -- /agnhost netexec --http-port=9000
+kubectl create deployment hello-node --image=introtok8s/demo:0.0.1 -- /agnhost netexec --http-port=9000
+kubectl delete -n default deployment hello-node
+kubectl create deployment intro-2-k8s-demo --image=introtok8s/demo:0.0.1 -- /agnhost netexec --http-port=9000\
+
+touch apps.yml
+kubectl create -f apps.yml
+kubectl create -f apps.yml
+kubectl create -f apps.yml
+kubectl create -f apps.yml
+kubectl update -f apps.yml
+kubectl apply  -f apps.yml
+kubectl delete -n default job intro-to-k8s-demo
+kubectl apply  -f apps.yml
+kubectl delete -n default deployment intro-2-k8s-demo
+kubectl delete -n default job intro-to-k8s-demo
+kubectl apply  -f apps.yml
+kubectl apply --validate=true --dry-run=true -f apps.yaml
+kubectl apply --validate=true --dry-run=client -f apps.yaml
+kubectl apply --validate=true --dry-run=client -f apps.yml
+kubectl apply --validate=true --dry-run=client -f apps.yml
+kubectl apply  -f apps.yml
+eval $(minikube docker-env)
+kubectl apply  -f apps.yml
+kubectl delete -n default job intro-to-k8s-demo
+kubectl apply  -f apps.yml
+kubectl delete -n default job intro-to-k8s-demo
+kubectl apply  -f apps.yml
+eval $(minikube docker-env)
+kubectl apply  -f apps.yml
+kubectl delete -n default job intro-to-k8s-demo
+kubectl create -f apps.yml
+kubectl get deployments\
+
+kubectl expose deployment intro-2-k8s-demo --type=LoadBalancer --port=8080
+touch deployments.yml
+kubectl create -f deployments.yml
+kubectl create -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl get deployments\
+
+kubectl delete -n default deployment intro-2-k8s-demo
+kubectl delete -n default deployment intro-to-k8s-demo
+kubectl apply -f deployments.yml
+kubectl expose deployment intro-to-k8s-demo --type=LoadBalancer --port=9000
+kubectl expose deployment/intro-to-k8s-demo --type="NodePort" --port 9000
+kubectl delete -n default service intro-to-k8s-demo
+kubectl expose deployment/intro-to-k8s-demo --type="NodePort" --port 9000
+kubectl get services\
+\
+
+kubectl describe services/intro-to-k8s-demo
+export NODE_PORT="$(kubectl get services/intro-to-k8s-demo -o go-template='{{(index .spec.ports 0).nodePort}}')"\
+echo "NODE_PORT=$NODE_PORT"
+curl http://"$(minikube ip):$NODE_PORT"\
+\
+
+curl http://"$(minikube ip):$NODE_PORT"\
+\
+
+curl http://"$(minikube ip):$NODE_PORT/actuator"\
+\
+
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl config current-context
+kubectl get nodes
+kubectl port-forward pod/intro-to-k8s-demo 9000:9000
+kubectl get pods
+kubectl port-forward pod/intro-to-k8s-demo-65f857c5bb-lq262 9000:9000
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl apply -f deployments.yml
+kubectl scale deployments/kubernetes-bootcamp --replicas=4
+kubectl scale deployments/hello-node --replicas=4
+kubectl get pods -o wide\
+\
+
+kubectl describe deployments/hello-node
+kubectl describe services/hello-node\
+
+export NODE_PORT="$(kubectl get services/hello-node -o go-template='{{(index .spec.ports 0).nodePort}}')"
+echo NODE_PORT=$NODE_PORT\
+\
+
+curl http://"$(minikube ip):$NODE_PORT"\
+\
+
+kubectl scale deployments/hello-node --replicas=2
+cd k8.demo
+mvn
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+eval $(minikube docker-env)
+./mvnw compile jib:dockerBuild
+./mvnw clean
+./mvnw clean package
+./mvnw clean package
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+./mvnw clean package
+./mvnw clean package
+./mvnw compile jib:dockerBuild
+./mvnw compile jib:dockerBuild
+npm run it 
+git checkout -b document-users-for-it
+ls
+ /usr/bin/env 'NODE_OPTIONS= --require "/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http' 'VSCODE_INSPECTOR_OPTIONS=:::{"inspectorIpc":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-cdp.55985-68fc3fbb-1.sock","deferredMode":false,"waitForDebugger":"","execPath":"/Users/hkandie/.nvm/versions/node/v16.20.0/bin/node","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/node-debug-callback-14018ab318c4d8c8"}' /Users/hkandie/.nvm/versions/node/v16.20.0/bin/node node_modules/.bin/jest /Users/hkandie/bench/account-management-automation-app/tests/unit/components/Dashboard.test.tsx -t Dashboard\ should\ show\ and\ hide\ spinner\ after\ loading --runInBand 
+cd '/Users/hkandie/bench/account-management-automation-app'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation-app/tests/unit/main.test.tsx' -t 'main'
+cd '/Users/hkandie/bench/account-management-automation-app'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation-app/tests/unit/main.test.tsx' -t 'main'
+cd '/Users/hkandie/bench/account-management-automation-app'
+cd '/Users/hkandie/bench/account-management-automation-app'
+node 'node_modules/.bin/jest' '/Users/hkandie/bench/account-management-automation-app/tests/unit/main.test.tsx' -t 'main'
+npm run it
+git stash
+npm run test
+npm run test -- describe('UserAppAssignmentConfigAD', () => {\
+
+npm run test -- UserAppAssignmentConfigAD\
+
+npm run test -w  -- UserAppAssignmentConfigAD\
+
+npm run test -f  -- UserAppAssignmentConfigAD\
+
+npm run test --watch  -- UserAppAssignmentConfigAD\
+
+npm run test --watch \
+
+npm run test --watch \
+
+npm run test-w \
+
+npm run test-w main\
+
+npm run test-w 
+npm run test-w  describe('SystemHealth', () => {\
+
+npm run test-w SystemHealth
+npm run test-w main\
+
+npm run test-w Home
+npm run test-w 
+npm run test-w Dashboard
+npm run test-w 
+npm run test-w  UserAppAssignmentConfigAD
+npm run test-w  Verify
+npm run test-w  UserAppAssignmentConfigAD
+npm run test-w main
+npm run test-w  UserAppAssignmentConfigAD
+git checkout -b add-back-button
+git fetch origin
+git rebase origin/main
+git stash && git checkout main && git branch | grep -v "main" | xargs git branch -D | git pull\
+
+git rebase --abort
+git stash && git checkout main && git branch | grep -v "main" | xargs git branch -D | git pull\
+
+git checkout -b document-users-for-it
+git push origin document-users-for-it
+git push origin document-users-for-it -f
+npm run dev
+npm run format
+npm run lint
+git push origin document-users-for-it -f
+git checkout main
+git checkout main
+git pull
+git pull
+npm run dev
+npm i
+nvm list
+nvm use 18.17.0
+nvm list
+npm i
+npm run audit fix
+npm audit fix
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run tesr
+npm run test
+npm run test-w UserAppAssignmentConfigAD
+npm run test-w UserHealth
+npm run test
+git fetch origin\
+git checkout 807-feature-browser-back-button-leaves-application
+git fetch origin\
+git checkout 807-feature-browser-back-button-leaves-application
+git fetch origin\
+
+git checkout 807-feature-browser-back-button-leaves-application
+git fetch origin\
+git checkout 807-feature-browser-back-button-leaves-application
+npm run format
+git push origin 807-feature-browser-back-button-leaves-application -f
+git push origin 807-feature-browser-back-button-leaves-application -f
+npm run lint
+npm i -d eslint-plugin-import
+npm i -D eslint-plugin-import
+npm run lint
+npm i -D eslint-config-prettier
+npm run lint
+npm run lint
+npm i
+npm i
+npm run lint
+npm run dev
+npm run test
+git push origin 807-feature-browser-back-button-leaves-application -f
+git branch -D 807-feature-browser-back-button-leaves-application
+git checkout main
+git stash
+git branch -D 807-feature-browser-back-button-leaves-application
+git branch -D 807-feature-browser-back-button-leaves-application 
+git checkout main
+git pull
+git pull
+npm run it
+npm run it -- -g "Test User With Less Permission"
+npm run it -- -g "Test User With Less Permission"
+npm run it -- -g "Test User With Less Permission"
+npm run it -- -g "Test User With Less Permission"
+git checkout origin/807-feature-browser-back-button-leaves-application
+git stash && git checkout main && git branch | grep -v "main" | xargs git branch -D | git pull\
+
+git checkout 807-feature-browser-back-button-leaves-application
+git pull
+git stash apply
+npm run dev
+tsc && vite build --mode dev
+tsc && vite build --mode dev
+/opt/homebrew/bin/git -C "/Users/hkandie/bench/account-management-automation-app" -c "core.editor=code --wait --reuse-window" merge --ff-only origin/807-feature-browser-back-button-leaves-application
+npm run test-w UserAppAssignmentConfigAD
+npm run test-w DataTable
+npm run test-w 
+npm run test-w  UserHealth
+npm run format
+npm run test-w  
+npm run test
+npm run test-w  
+npm run test
+npm run test-w  UserAppAssignmentConfigAD
+npm run format
+npm run lint
+npm run test-w  
+npm run format
+npm run test-w  SystemHealth
+npm run test
+npm run dev
+git checkout main
+git pull origin 
+git checkout -b fix-build
+npm run dev
+npm run dev
+git checkout fix-husky-pre-commit-hook
+cd ../account-management-automation
+git checkout fix-husky-pre-commit-hook
+code .
+open .
+git status
+git stash && git checkout main && git branch | grep -v "main" | xargs git branch -D | git pull\
+
+git checkout 807-feature-browser-back-button-leaves-application
+npm run dev
+make backend\
+
+cd demo
+make backend\
+
+make backend\
+
+source venv/bin/activate
+make backend\
+
+make backend\
+
+pip install -r requirements.txt\
+
+pip install --upgrade pip
+pip installuvicorn
+pip install uvicorn
+pip install -r requirements.txt\
+
+pip install orjson
+pip install orjson
+pip install -r requirements.txt\
+
+pip install psycopg2-binary
+pip install -r requirements.txt\
+
+pip install uvloop
+pip install -r requirements.txt\
+
+pip install httptools
+pip install httptools
+pip install -r requirements.txt\
+
+exit
+whoami
+pwd
+cd bench
+mkdir learn-az
+mkdir learn-az/terraform
+az login
+git fetch origin
+git checkout 452-custom-domain
+terraform ftm .
+cd terraform
+terraform fmt .
+git pull
+git checkout fix-husky-pre-commit-hook
+git pull
+git fetch origin
+cd ..
+git fetch origin
+git rebase origin/main
+npm i
+git push origin fix-husky-pre-commit-hook
+git push origin fix-husky-pre-commit-hook -f
+git checkout main
+git pull
+npm run dev
+npm run coverage
+git checkout 807-feature-browser-add-logout-button
+git checkout -b 807-feature-browser-add-logout-button
+npm run test -- ProtectedRoutes
+npm run test-w -- ProtectedRoutes
+npm run test
+npm run test-w -- Header
+npm run test-w -- Header
+npm run test
+npm run test-w -- Header
+npm run test
+npm run test-w -- Header
+npm run test
+npm run test
+npm run test
+npm run format
+git fetch origin
+git stash
+git rebase origin/main
+git rebase --continue
+git stash apply
+npm run test
+npm run lint
+git push origin 807-feature-browser-add-logout-button
+ls
+cd ../demo
+ls
+rm -rf venv
+ls
+python3 -m venv venv\
+
+source venv/bin/activate\
+
+pip install -r requirements.txt\
+
+make backend\
+
+make backend\
+
+make backend\
+
+pip install -r requirements.txt\
+
+pip uninstall anyio asgiref certifi charset-normalizer click dnspython email-validator fastapi h11 httptools itsdangerous
+pip uninstall anyio asgiref certifi charset-normalizer click dnspython email-validator fastapi h11 httptools itsdangerous\
+pip uninstall  Jinja2 MarkupSafe orjson psycopg2-binary pydantic python-dotenv python-multipart PyYAML requests six\
+pip uninstall   sniffio starlette typing_extensions ujson urllib3 uvicorn uvloop watchgod websockets\
+
+y
+pip uninstall anyio asgiref certifi charset-normalizer click dnspython email-validator fastapi h11 httptools itsdangerous\
+pip uninstall  Jinja2 MarkupSafe orjson psycopg2-binary pydantic python-dotenv python-multipart PyYAML requests six\
+pip uninstall   sniffio starlette typing_extensions ujson urllib3 uvicorn uvloop watchgod websockets\
+
+pip freeze > requirements-1.txt
+pip uninstall    annotated-types idn pydantic_corewatchfiles
+pip uninstall    annotated-types idn pydantic_corewatchfiles
+pip freeze > requirements-1.txt
+pip uninstall    annotated-types idna pydantic_core watchfiles
+pip freeze > requirements-1.txt
+pip install fastapi\
+
+pip freeze > requirements-1.txt
+pip install "uvicorn[standard]"\
+
+pip freeze > requirements-1.txt
+pip freeze > requirements.txt
+make backend\
+
+touch main.py
+uvicorn main:app --reload
+make backend
+pip install psycopg2
+pip install psycopg2-binary
+make backend
+pip install psycopg2-binary pydantic
+pip install psycopg2-binary pydantic-settings
+make backend
+make backend
+pip freeze > requirements.txt
+make deploy\
+
+make port-forward\
+
+make port-forward\
+
+make port-forward\
+
+make port-forward\
+
+make port-forward\
+
+make port-forward\
+
+make port-forward\
+
+make backend
+cd demo
+source venv/bin/activate
+pip install requests
+pip install requests jinja2
+pip install requests jinja2 python-multipart
+cd demo
+make deploy\
+
+make port-forward\
+
+kubectl create namespace telephone
+kubectl run caller --image=alpine:3.15 --namespace=telephone --command -- sleep infinite\
+
+kubectl get pods --namespace=telephone
+kubectl exec pod/caller --namespace=telephone -- wget -q -S https://www.sourceallies.com -O /dev/null
+kubectl exec pod/caller --namespace=telephone -- wget -q -S https://www.sourceallies.com -O /dev/null
+make frontend\
+
+cd demo
+source venv/bin/activate
+make frontend\
+
+make frontend\
+
+sh hack/start-cluster.sh
+cd demo
+python3 -m venv venv
+source venv/bin/activate\
+
+pip install -r requirements.txt\
+
+make database\
+
+ls
+cd demo
+touch main.py
+source venv/bin/activate
+uvicorn main:app --reload
+uvicorn main:app --reload
+pip install fastapi
+uvicorn main:app --reload
+pip install "uvicorn[standard]"
+uvicorn main:app --reload
+pip install pydantic
+pip uninstall pydantic
+pip install pydantic
+pip remove fastapi pydantic
+pip uninstall fastapi pydantic
+cd demo
+pip install -r requirements.txt\
+
+pip install fastapi
+pip uninstall fastapi
+pip install fastapi
+pip install -r requirements.txt\
+
+pip install starlette
+pip uninstall starlette
+pip install starlette
+pip install -r requirements.txt\
+
+pip uninstall typing-extensions
+pip install typing-extensions
+pip install -r requirements.txt\
+
+pip install pydantic
+make frontend
+minikube dashboard
+cd demo
+make deploy
+make port-forward
+make deploy
+make port-forward
+minikube dashboard
+minikube delete
+make deploy
+minikube delete
+brew uninstall minikube
+git status
+git checkout -b fix-app
+git checkout main
+cd ..
+rm -rf .history
+cd demo
+git status
+python3 -m venv venv
+source venv/bin/activate
+make deploy
+minukube
+minikube
+brew install minukube
+brew install minikube
+minikube
+make deploy
+sh ../hack/start-cluster.sh
+make deploy
+make port-forward
+minikube dashboard
+minikube addons enable metrics-server
+kubectl delete namespace demo
+kubectl apply -f demo.yaml
+cd demo
+kubectl apply -f demo.yaml
+kubectl apply -f demo.yaml
+kubectl apply -f demo.yaml
+docker build . -f backend.Dockerfile -t sourceallies/backend:latest
+	docker build . -f frontend.Dockerfile -t sourceallies/frontend:latest\
+
+kubectl apply -f demo.yaml
+eval $(minikube -p minikube docker-env)
+kubectl apply -f demo.yaml
+kubectl delete namespace demo
+eval $(minikube -p minikube docker-env)
+docker context create minikube --description "minikube container runtime" --docker "$endpoint"\
+
+make deploy
+make port-forward
+podman
+brew uninstall docker
+rm -rf /Applications/Docker.app
+docker
+brew uninstall docker
+terraform init .
+terraform init 
+cd terraform
+terraform init 
+terraform init 
+terraform plan
+terraform plan
+terraform init -upgrade
+terraform plan
+terraform plan
+terraform plan
+terraform apply
+terraform init 
+terraform apply
+terraform apply
+terraform apply
+touch tf.json
+touch tf.json
+terraform apply
+terraform apply
+terraform apply terraform apply -auto-approve -input=false
+terraform apply -auto-approve -input=false
+terraform apply -auto-approve -input=false
+touch upload.sh
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/ --recursive\
+\
+'
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/' --recursive\
+
+az login
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/' --recursive\
+
+azcopy login\
+
+azcopy auto-login\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/' --recursive --auto-login\
+
+azcopy auto-login\
+
+azcopy help
+azcopy login
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/' --recursive --auto-login\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/dist' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.z22.web.core.windows.net/' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.dfs.core.windows.net/$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.file.core.windows.net/web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.file.core.windows.net/$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.file.core.windows.net/$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.file.core.windows.net/web' --recursive --preserve-smb-permissions=true --preserve-smb-info=true\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.file.core.windows.net/web' --recursive
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.file.core.windows.net/\$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.blob.core.windows.net/\$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.blob.core.windows.net/\$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.blob.core.windows.net/\$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.blob.core.windows.net/$web' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23..blob.core.windows.net/\$web/?' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23..blob.core.windows.net/\$web/?' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23..blob.core.windows.net/\$web/' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.blob.core.windows.net/\$web/' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.blob.core.windows.net/$web/' --recursive\
+
+azcopy copy '/Users/hkandie/bench/learn-vitejs/dist/*' 'https://glxaccountno23.blob.core.windows.net/$web/' --recursive\
+
+az storage blob upload-batch -s /Users/hkandie/bench/learn-vitejs/dist/* -d '$web' --account-name glxaccountno23\
+
+az storage blob upload-batch -s /Users/hkandie/bench/learn-vitejs/dist/index.html -d '$web' --account-name glxaccountno23\
+
+az storage blob upload-batch -s /Users/hkandie/bench/learn-vitejs/dist/index.html -d '$web' -;2D;2D;2D-account-name glxaccountno23\
+
+az storage blob upload-batch -s /Users/hkandie/bench/learn-vitejs/dist/ -d '$web' --account-name glxaccountno23\
+
+az storage blob upload-batch -s /Users/hkandie/bench/learn-vitejs/dist/ -d '$web' --account-name glxaccountno23 --overwrite\
+
+terraform apply -auto-approve -input=false
+az storage blob delete-batch -s images --account-name glxaccountno23 --source '$web' --if-unmodified-since $(date -d `"1 hour ago`" ''+%Y-%m-%dT%H:%MZ'')'\
+\
+'\
+'\
+''
+az storage blob delete-batch -s images --account-name glxaccountno23 --source '$web' --if-unmodified-since $(date -d `"1 hour ago`" ''+%Y-%m-%dT%H:%MZ'')\
+\
+\
+\
+
+az storage blob delete-batch -s images --account-name glxaccountno23 --source '$web' --if-unmodified-since $(date -d `"1 hour ago`" '+%Y-%m-%dT%H:%MZ')\
+\
+'\
+"\
+`\
+``\
+```
+az storage blob delete-batch -s images --account-name glxaccountno23 --source '$web' --if-unmodified-since 
+echo date
+echo date()\
+
+echo $date\
+
+echo $date()\
+
+echo $(date)
+echo $(date -d "10 minutes ago")
+echo $(date d 1)
+echo $(date -output_fmt "y-M-dTh:m:s")
+echo $(date --output_fmt "y-M-dTh:m:s")
+echo $(date +"y-M-dTh:m:s")
+echo $(date "y-M-dTh:m:s")
+echo $(date date +"%m-%d-%y")
+echo $(date+"%m-%d-%y")
+echo $(date +"%m-%d-%Y")
+echo $(date +"%Y-%m-%d")
+echo $(date +"%Y-%m-%dT:H")
+echo $(date +"%Y-%m-%dT:%H")
+echo $(date +"%Y-%m-%dT:%H:%i:%s")
+echo $(date +"%Y-%m-%dT:%H:%i:%S")
+echo $(date +"%Y-%m-%dT:%H:%I:%S")
+az storage blob delete-batch -s images --account-name glxaccountno23 --source '$web' --if-unmodified-since $(date +"%Y-%m-%dT:%H:%I:%S")
+az storage blob delete-batch -s images --account-name glxaccountno23 --source '$web' --if-unmodified-since $(date +"%Y-%m-%dT%H:%I:%S")\
+
+az storage blob delete-batch -s * --account-name glxaccountno23 --source '$web' --if-unmodified-since $(date +"%Y-%m-%dT%H:%I:%S")\
+
+az storage blob delete-batch -s '$web' --account-name glxaccountno23 --if-unmodified-since $(date +"%Y-%m-%dT%H:%I:%S") --recursive\
+
+echo $(date +"%Y-%m-%dT:%H:%I:%Sz")
+echo $(date +"%Y-%m-%dT:%H:%I:%S%z")
+az storage blob delete-batch -s '$web' --account-name glxaccountno23 --if-unmodified-since $(date +"%Y-%m-%dT:%H:%I:%S%z")\
+
+az storage blob delete-batch -s '$web' --account-name glxaccountno23 --if-unmodified-since $(date +"%Y-%m-%dT%H:%I:%S%z")\
+
+echo $(date +"%Y-%m-%dT:%H:%I:%S%z")
+echo $(date +"%Y-%m-%dT%H:%I:%S%z")
+echo $(date +"%Y-%m-%d'T'%H:%I:%S%z")
+az storage blob delete-batch -s '$web' --account-name glxaccountno23 --if-unmodified-since $(date +"%Y-%m-%d'T'%H:%I:%S%'z'")\
+
+az storage blob delete-batch -s '$web' --account-name glxaccountno23 --if-unmodified-since $(date +"%Y-%m-%d'T'%H:%I'z'")\
+
+az storage blob delete-batch -s '$web' --account-name glxaccountno23 --if-unmodified-since $(date +"%Y-%m-%d'T'%H:%I'%Z'")\
+
+az storage blob delete-batch -s '$web' --account-name glxaccountno23 --if-unmodified-since $(date +"%Y-%m-%dT%H:%I%Z")\
+
+echo $(date +"Y-m-d'T'H:M'Z'")
+echo $(date +"%Y-%m-%d'T'%H:%M'%Z'")
+echo $(date +"%Y-%m-%d'T'%H:%M'%z'")
+az storage blob delete-batch -s '$web' --account-name glxaccountno23 --if-unmodified-since $(date +"%Y-%m-%d'T'%H:%M%z")\
+
+az storage blob upload-batch -s /Users/hkandie/bench/learn-vitejs/dist/* -d '$web' --account-name glxaccountno23\
+
+az storage blob upload-batch -s /Users/hkandie/bench/learn-vitejs/dist/ -d '$web' --account-name glxaccountno23 --overwrite\
+
+cd ../learn-vitejs
+npm ru build
+npm run build
+npm run build
+npm run build
+npm run build
+npm run build
+azcpoy
+azcopy
+brew install azcopy
+azcopy
+pwd
+cd dist
+pwd
+cd ..
+brew install azcopy
+npm run build
+mkdir basic-react-router
+cd basic-react-router
+npm init .
+npx init
+npm init
+cd ..
+rm -rm basic-react-router
+rm -rf basic-react-router
+npm create vite@latest basic-react-router -- --template react-ts\
+
+cd basic-react-router
+npm i
+npm run dev
+ps aux
+ps aux |grep 5173
+kill -f 76888
+kill -p 76888
+kill 76888
+ps aux |grep 5173
+kill -9 76888
+kill -9 $(lsof -t -i:5173)
+k8
+minicuke
+minicube
+rm -rf demo/venv
+cd demo
+python3 -m venv box
+rm -rf box
+python3 -m venv venv
+source venv/bin/activate
+git stash
+git status
+git stash
+git stash apply
+cp ../hack/start-cluster.sh ../hack/start-cluster-podman.sh
+brew install podman
+podman machine init\
+podman machine start
+brew uninstall podman
+brew install docker
+sh ../hack/start-cluster.sh
+minikube dashboard
+minikube dashboard
+touch app.yml
+mv app.yml pods.yml
+kubectl apply -f  pods.yml
+kubectl apply -f  pods.yml
+kubectl apply -f  pods.yml
+kubectl apply -f  pods.yml
+kubectl apply -f  pods.yml
+kubectl apply -f  pods.yml
+kubectl apply -f  pods.yml
+kubectl apply -f  pods.yml
+kubectl apply -f  pods.yml
+minikube start -driver=containerd
+minikube start --driver=containerd
+minikube delete
+minikube start --driver=containerd
+minikube start --driver=podman
+minikube config set driver docker
+minikube start
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl -n my-first-namespace port-forward svc/my-first-pod 80:3001
+kubectl -n my-first-namespace port-forward svc/my-first-pod 80:3001
+kubectl -n my-first-namespace port-forward svc/my-first-pod 80:3001
+kubectl apply -f pods.yml
+kubectl namespace delete my-first-namespace
+kubectl namespace delete my-first-namespace
+kubectl delete namespace my-first-namespace\
+
+kubectl delete namespace my-namespace\
+
+kubectl apply -f pods.yml
+kubectl get nodes
+kubectl namespace delete my-first-namespace
+kubectl delete namespace my-first-namespace
+kubectl run my-first-pod --image=nginx:1.21
+kubectl get pods
+kubectl port-forward pod my-first-pod 8000:80
+kubectl port-forward pod/my-first-pod 8000:80
+kubectl port-forward pod/my-first-pod 9000:80
+curl http://localhost:9000
+kubectl logs pod/my-first-pod
+kubectl logs pod my-first-pod
+kubectl logs pod/my-first-pod
+kubectl logs pod/my-first-pod -f
+kubectl delete pod my-first-pod
+kubectl get pods
+kubectl get namespaces
+kubectl create namespace app
+kubectl run app-4 --image=nginx:1.21 --namespace=app
+kubectl get pods
+kubectl get pods --namespace=app
+kubectl delete namespace app
+kubectl run app-1-backend --image=nginx:1.21 --namespace=app-1
+kubectl create namespace app-1
+kubectl create namespace app-2
+kubectl create namespace app-3
+kubectl run app-1-backend --image=nginx:1.25 --namespace=app-1
+kubectl run app-1-backend --image=nginx:1.25 --namespace=app-2
+kubectl run app-2-backend --image=nginx:1.25 --namespace=app-2
+kubectl run app-3-backend --image=nginx:1.25 --namespace=app-3
+kubectl run app-3-frontend --image=nginx:1.25 --namespace=app-3
+kubectl run app-2-frontend --image=nginx:1.25 --namespace=app-2
+kubectl run app-1-frontend --image=nginx:1.25 --namespace=app-1
+kubectl get pods --namespace=app-1
+kubectl label pod app-1-frontend visibility=public --namespace=app-1
+kubectl label pod app-2-frontend visibility=public --namespace=app-2
+kubectl label pod app-3-frontend visibility=public --namespace=app-3
+kubectl label pod app-3-frontend visibility=public --namespace=app-3
+delete -n app-2 pod app-1-backend
+kubectl delete -n app-2 pod app-1-backend
+kubectl label pod app-3-frontend visibility=public --namespace=app-3
+touch run.sh
+ubectl label pod/app-3-backend pod/app-3-frontend visibility=internal --namespace=app-3
+kubectl label pod/app-3-backend pod/app-3-frontend visibility=internal --namespace=app-3
+kubectl label pod/app-1-backend visibility=public --namespace=app-1
+kubectl label pod/app-2-backend pod/app-2-frontend visibility=public --namespace=app-2
+kubectl label pod/app-3-backend pod/app-3-frontend visibility=internal --namespace=app-3
+kubectl label pod/app-3-backend pod/app-3-frontend visibility=internal --namespace=app-3 --overwrite=true
+kubectl get pods --selector=visibility=public --namespace=app-1
+kubectl get pods --selector=visibility=public
+kubectl get pods --selector=visibility=public --all-namespaces
+kubectl label pod app-3-backend pod app-3-frontend visibility=internal --namespace=app-3
+kubectl delete namespace app-1 namespace app-2 namespace app-3
+kubectl delete namespace/app-1 namespace/app-2 namespace/app-3
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/aio/deploy/recommended.yaml\
+
+kubectl proxy\
+
+touch demo/sample-user.yml
+cd demo
+kubectl apply -f sample-user.yml
+kubectl apply -f sample-user.yml
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+minikube addons enable metrics-server
+touch gameplan.md
+minikube delete
+brew uninstall rancher
+rm -rf /Applications/Rancher\ Desktop.app
+rm -rf /Applications/Rancher\ Desktop.app
+docker
+kubectl apply -f demo.yaml
+where kubectl\
+
+brew uninstall kubectl
+brew uninstall minikube
+where kubectl\
+
+brew uninstall kubectl
+where kubectl\
+
+where minkube
+where minikube
+brew install rancher
+brew install rosseta
+minikube
+kubectl config current-context
+kubectl config current-context
+brew install rosseta
+brew install rosetta
+kubectl config current-context
+kubectl config current-context
+softwareupdate --install-rosetta\
+\
+\
+\
+\
+\
+
+A
+softwareupdate --install-rosetta\
+\
+\
+\
+\
+\
+
+kubectl config current-context
+kubectl config current-context
+cd demo
+kubectl apply -f pods.yml
+minikube
+kubectl proxy
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl proxy
+git fetch origin
+git checkout 452-add-domain
+git stash
+git fetch origin
+cd demo
+kubectl apply -f pods.yml
+touch wip
+cd ..
+git checkout -b intro-wip
+git push origin intro-wip
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl delete namespace kafka-namespace
+kubectl delete namespace kafka-namespace kafka my-first-namespace
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+kubectl apply -f pods.yml
+touch deployment.yml
+kubectl apply -f deployment.yml
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/aio/deploy/recommended.yaml
+kubectl apply -f sample-user.ym
+kubectl apply -f sample-user.yml
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl proxy
+brew install kubectl\
+
+git status
+git checkout 807-feature-browser-add-logout-button
+git fetch origin
+git rebase origin/main
+npm run dev
+git checkout main
+git pull
+npm run it
+npm run dev
+git checkout -b fix-header-width
+git checkout -b fix-header-width-large-screens
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_aro196c45qpp2t6ybdxur9cho.argfile com.spiderwalker.kafka.demo.DemoApplication 
+ cd /Users/hkandie/bench/learn-kafka ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_aro196c45qpp2t6ybdxur9cho.argfile com.spiderwalker.kafka.demo.DemoApplication 
+ cd /Users/hkandie/bench/learn-kafka ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_aro196c45qpp2t6ybdxur9cho.argfile com.spiderwalker.kafka.demo.DemoApplication 
+ cd /Users/hkandie/bench/learn-kafka ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_aro196c45qpp2t6ybdxur9cho.argfile com.spiderwalker.kafka.demo.DemoApplication 
+ cd /Users/hkandie/bench/learn-kafka ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_aro196c45qpp2t6ybdxur9cho.argfile com.spiderwalker.kafka.demo.DemoApplication 
+./mvnw package
+mvn package
+mvn package --skipTests
+mvn package -DskipTests
+ cd /Users/hkandie/bench/learn-kafka ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_aro196c45qpp2t6ybdxur9cho.argfile com.spiderwalker.kafka.demo.DemoApplication 
+mvn package -DskipTests
+ cd /Users/hkandie/bench/learn-kafka ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.DemoApplication 
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl apply -f deployment.yml
+kubectl apply -f deployment.yml
+kubectl apply -f deployment.yml
+kubectl apply -f deployment.yml
+kubectl apply -f deployment.yml
+touch kafka.yml
+       kubectl delete -n default deployment kafka-deployment
+kubctl get pods
+kubectl get pods
+kubectl delete -n default pod kafka
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl get pods -n kafka
+kubectl port-forward kafka-broker-5c55f544d4-hrgnv 9092 -n kafka
+kubectl port-forward kafka-broker-558cfcff49-jjn4f 9092 -n kafka
+echo "hello world | kafkacat -P -b localhost:9092 -t test\
+\
+\
+"
+kubectl apply -f kafka.yml
+kubectl port-forward kafka-broker-558cfcff49-jjn4f 9092 -n kafka
+kubectl port-forward kafka-broker-558cfcff49-jjn4f 9092 -n kafka
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl get nodes
+kubectl config current-context
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+make deploy
+make port-forward
+make deploy
+make deploy
+make deploy
+make deploy
+make deploy
+make deploy
+kubectl get services
+kubectl get services
+kubectl get services -n demo
+make deploy
+kubectl get services -n demo
+make deploy
+make deploy
+make deploy
+make deploy
+make deploy
+make deploy
+make deploy
+kubectl get services
+kubectl get services -n demo
+kubectl delete -f demo.yaml
+kubectl delete -f kafka.yml
+kubectl proxy
+kubectl proxy
+cd bench
+git clone https://github.com/hkandie/learn-kafka.git
+mv learn-kafka learn-kafka-2
+git clone https://github.com/hkandie/learn-kafka.git
+cd learn-kafka
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+touch .gitignore
+mkdir demo
+cd demo
+touch fish.yml
+kubectl apply -f fish.yml
+kubectl apply -f fish.yml
+kubectl run fish-1 --image=jmalloc/echo-server:0.3.1 --labels=role=fish --namespace=lake
+kubectl run fish-2 --image=jmalloc/echo-server:0.3.1 --labels=role=fish --namespace=lake
+kubectl run fish-3 --image=jmalloc/echo-server:0.3.1 --labels=role=fish --namespace=lake
+kubectl run angler --image=alpine:3.15 --labels=role=angler --namespace=lake --command -- sleep infinite
+kubectl exec pod/angler --namespace=lake -- wget -qO- fish.lake.svc
+kubectl exec pod/angler --namespace=lake -- wget -qO- fish.lake.svc
+kubectl exec pod/angler --namespace=lake -- wget -qO- fish.lake.svc
+kubectl exec pod/angler --namespace=lake -- wget -qO- fish.lake.svc
+kubectl create namespace confluent\
+
+kubectl config set-context --current --namespace confluent\
+
+mvn package 
+mvn clean package 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl delete -f demo/fish.yml
+kubectl delete -f demo/fish.yml
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl delete -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl delete -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl config set-context --current --namespace default
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kubectl apply -f demo/kafka.yml
+kafka proxy
+kubectl proxy
+kubectl -n kubernetes-dashboard create token admin-user
+git checkout main
+git pull
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl -n kubernetes-dashboard create token admin-user
+sh demo/run.sh
+kubectl proxy
+kubectl proxy
+kubectl proxy
+kubectl apply -f demo/kafka.yml
+sh demo/run.sh
+sh demo/run.sh
+kubectl apply -f demo/kafka.yml
+kubectl logs pod/receiver --tail=5 --namespace=telephone
+kubectl logs pod/receiver --tail=5 --namespace=kafka
+kubectl logs back-end-deployment-58ccf5b7cc-c47km --tail=5 --namespace=kafka
+kubectl logs back-end-deployment-58ccf5b7cc-c47km --tail  --namespace=kafka
+kubectl logs back-end-deployment-58ccf5b7cc-c47km -f  --namespace=kafka
+kubectl -n kubernetes-dashboard create token admin-user
+sh demo/run.sh
+sh demo/run.sh
+sh demo/run.sh
+mkdir notes
+git stash
+git push origin main
+git stash
+git pull
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ cd /Users/hkandie/bench/learn-kafka ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application  cd /Users/hkandie/bench/learn-kafka ; /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+kubectl prodyx
+kubectl proxy
+kubectl proxy
+ /usr/bin/env /Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home/bin/java @/var/folders/59/hcpvzlb90wbbmjk548mtzm_r0000gn/T/cp_8y724ybpwyr5wkcdoj5mfw2hp.argfile com.spiderwalker.kafka.demo.Application 
+sh demo/kafka.yml
+sh demo/kafka.yml
+sh demo/run.sh
+sh demo/run.sh
+touch demo/docker-compose.yml
+docker compose up -d -f demo/docker-compose.yml
+docker compose up -d demo/docker-compose.yml
+docker compose --help
+docker compose up -f  demo/docker-compose.yml -d
+docker compose -f  demo/docker-compose.yml -d
+docker compose -f  demo/docker-compose.yml up -d
+docker compose -f  demo/docker-compose.yml up -d
+kubectl get deployments
+kubectl get deployments -n kafka
+kubectl delete deployments -n kafka
+kubectl delete deployments zookeeper-deployment -n kafka
+kubectl delete deployments kafka-deployment  -n kafka
+kubectl delete deployments back-end-deployment  -n kafka
+kubectl get namespaces
+kubectl delete namespace kafka
+kubectl delete namespace galaxy
+docker compose -f  demo/docker-compose.yml up -d
+docker logs zoo1
+docker logs zoo1 -f
+docker compose -f  demo/docker-compose.yml up -d
+docker compose -f  demo/docker-compose.yml up -d --remove-orphans
+docker logs kafka1 -f
+docker compose -f  demo/docker-compose.yml up -d --remove-orphans
+mkdir demopy
+touch demopy/test.py
+cd demopy
+python3 -m venv venv
+source venv/bin/activate
+python test.py
+pip instal kafka
+pip install kafka
+python test.py
+python test.py
+pip install kafka-python
+python test.py
+python test.py
+python producer.py
+python producer.py
+pip uninstall kafka
+python producer.py
+pip install kafka-python
+python producer.py
+pip install kafka
+python producer.py
+pip install kafka
+python producer.py
+pip install kafka-python
+python producer.py
+pip uninstall kafka-python
+pip install kafka-python
+python producer.py
+python producer.py
+python producer.py
+python producer.py
+pip install faker
+pip install faker
+python producer.py
+python producer.py
+python producer.py
+python producer.py
+python producer.py
+python producer.py
+pip install flask
+python app.py
+python app.py
+python app.py
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+flask run
+sh producer.py
+python producer.py
+python producer.py
+python producer.py
+python producer.py
+python producer.py
+python producer.py
+python producer.py
+python app.py
+python app.py
+python app.py
+python app.py
+python app.py
+python app.py
+python app.py
+python producer.py
+flask run
+python producer.py
+python producer.py
+cd ../app
+python producer.py
+source venv/bin/activate
+python producer.py
+rm -rf venv
+python3 -m venv venv
+source venv/bin/activate
+python producer.py
+pip install faker kafka 
+python producer.py
+pip uninstall faker kafka 
+pip uninstall faker kafka-python 
+pip install faker kafka-python 
+python producer.py
+python producer.py
+python producer.py
+touch demo/test.sh
+cd demo
+kubectl apply -f kafka.yml
+kubectl get pods -n kafka
+kubectl get pods -n kafka
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl -n kubernetes-dashboard create token admin-user
+kubectl apply -f kafka.yml
+kubectl delete -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+kubectl apply -f kafka.yml
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+mvn clean compile jib:dockerBuild
+rm -rf target
+mvn clean compile jib:dockerBuild
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+mvn clean compile 
+\
+mvn compile jib:dockerBuild\
+kubectl apply -f demo/kafka.yml 
+kubectl -n kubernetes-dashboard create token admin-user
+docker logs zoo1 -f
+\
+mvn compile jib:dockerBuild\
+kubectl apply -f demo/kafka.yml 
+kubectl delete -f demo/kafka.yml 
+kubectl apply -f demo/kafka.yml 
+source venv/bin/activate
+python consumer.py
+python consumer.py
+python consumer.py
+python consumer.py
+python consumer.py
+python consumer.py
+python consumer.py
+python consumer.py
+source venv/bin/activate
+python consumer.py
+kubectl config current-context
+kubectl run my-first-pod --image=nginx:1.21
+kubectl port-forward pod/my-first-pod 8000:80

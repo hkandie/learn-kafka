@@ -8,11 +8,21 @@ spring:
       active: dev
    kafka:
      consumer:
-        bootstrap-servers: ::9093
+        bootstrap-servers: localhost:9093
         auto-offset-reset: earliest
         key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
         value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
      producer:
-        bootstrap-servers: ::9093
+        bootstrap-servers: localhost:9093
         key-serializer: org.apache.kafka.common.serialization.StringSerializer
         value-serializer: org.apache.kafka.common.serialization.StringSerializer
+        listener: 
+            ack-mode: record
+            concurrency: 1
+            type: batch
+            batch-listener: true
+            poll-timeout: 3000
+            batch-to-memory: true
+            batch-to-memory-timeout: 1000
+            batch-to-memory-buffer-limit: 100
+            batch-to-memory-buffer-size: 10000

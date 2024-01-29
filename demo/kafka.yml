@@ -60,6 +60,10 @@ spec:
           value: CLIENT://localhost:9092,EXTERNAL://localhost:9093
         - name: KAFKA_CFG_INTER_BROKER_LISTENER_NAME
           value: CLIENT
+        - name: KAFKA_CFG_MESSAGE_MAX_BYTES
+          value: "1048588"
+
+ 
 
 
 
